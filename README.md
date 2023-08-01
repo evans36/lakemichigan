@@ -17,8 +17,7 @@ Temperature data use version 2.4 of Windsond's radiation correction algorithm. D
 Missions conducted to date include:
 <ul>
   <li><b>Mission 1 (1 June 2023)</b> - Fifteen soundings at five sites (1, 6, 11, 16, and 21 n. mi. east of Milwaukee, WI) launched between 030 and 1600 Central Daylight Time on a sunny day with light southeasterly winds from the surface to 500 hPa and lake-surface water temperatures of 10-13°C (warmest nearshore).</li>
-  <li><b>Mission 2 (upcoming; expected 26 July 2023)</b> - One sounding launched from the inner harbor of Milwaukee, WI. Further details to come.
-  <li><b>Mission 3 (upcoming; expected 15 August 2023)</b> - Anticipated fifteen soundings launched at eight sites. Further details to come.</li>
+  <li><b>Mission 2 (upcoming; expected 15 August 2023)</b> - Anticipated fifteen soundings launched at eight sites. Further details to come.</li>
 </ul>
 
 Overarching project goals and data collected during mission 1 (1 June 2023) were presented at the AMS's 32nd Conference on Weather Analysis and Forecasting:
